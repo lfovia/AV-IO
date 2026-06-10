@@ -5,11 +5,11 @@ An activity can happen indoor or outdoor irrespective of the type or the class l
 As there was a lacuna for the multimodal annotated dataset and inavailability of dedicated manpower to annotate the videos, we went for a automated captioning approach with CLIP and CLAP models. 
 # AV-IO preparation 
 --------------------
-<img width="940" height="647" alt="image" src="dataset.jpg" />
+<img width="940" height="647" alt="image" src="dataset.png" />
 # AV-IO benchmarks
 --------------------
 
-<img width="940" height="647" alt="image" src="benchmark.jpg" />
+<img width="940" height="647" alt="image" src="benchmark.png" />
 
 
 # Model Evaluation Results
