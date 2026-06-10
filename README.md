@@ -6,7 +6,7 @@ As there was a lacuna for the multimodal annotated dataset and inavailability of
 # AV-IO preparation 
 --------------------
 <img width="940" height="647" alt="image" src="dataset.png" />
-# AV-IO benchmarks
+# AV-IO benchmark 
 --------------------
 
 <img width="940" height="647" alt="image" src="benchmark.png" />
